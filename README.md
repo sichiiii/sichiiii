@@ -4,7 +4,7 @@
 > "Nobody ever wrote down a plan to be broke, fat, lazy, or stupid.
 >  Those things are what happen when you don’t have a plan." — Larry Winget
 
-**https://www.linkedin.com/in/kirill-fisyukovich-b883141a2/**
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 ![HTML](https://github-readme-stats.vercel.app/api?username=sichiiii&theme=blue-green)
 ![HTML](https://github-readme-stats.vercel.app/api/top-langs/?username=sichiiii&theme=blue-green)
