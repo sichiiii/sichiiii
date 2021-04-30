@@ -1,5 +1,5 @@
 # HI, my name is **Kirill**
-## I'm a beginner *developer* from Belarus
+## I'm a *developer* from Belarus
 
 > "Nobody ever wrote down a plan to be broke, fat, lazy, or stupid.
 >  Those things are what happen when you don’t have a plan." — Larry Winget
