@@ -1,6 +1,1 @@
-# https://t.me/cyberjabka
-
-## нербук пидорас
-
-
-
+# CYB#RJ4BK4
